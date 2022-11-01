@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(109,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(133,19): warning C4244: '=': conversion from 'll' to 'int', possible loss of data
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(152,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(229,19): warning C4018: '<': signed/unsigned mismatch
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(239,19): warning C4018: '<': signed/unsigned mismatch
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+D:\univer\3 семестр\ос\laba4\laba4\main.cpp(274,19): warning C4244: '=': conversion from 'll' to 'int', possible loss of data
+  laba4.vcxproj -> D:\univer\3 семестр\ос\laba4\x64\Debug\laba4.exe
